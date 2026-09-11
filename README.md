@@ -1,8 +1,17 @@
 # LEROVA Team - Main Website
 
-![LEROVA Logo](images/lerova_logo_transparent.png)
+<p align="center">
+  <img src="images/favicon.png" alt="LEROVA Logo" width="120" />
+</p>
 
 الموقع الرسمي والمنصة التعريفية لفريق LEROVA للتقنية والابتكار، لعرض أهداف المبادرة والحلول البرمجية المبتكرة.
+
+---
+
+## رابط المعاينة المباشرة (Live Demo)
+
+يمكنك زيارة الموقع المرفوع على منصة Vercel عبر الرابط التالي:
+* **رابط المشروع:** [https://lerova-team.vercel.app](https://lerova-team.vercel.app) *(قم باستبدال هذا الرابط برابط Vercel الخاص بك)*
 
 ---
 
@@ -18,6 +27,7 @@
 ## التقنيات المستخدمة (Tech Stack)
 
 * اللغات الأساسية: HTML5, CSS3
+* الاستضافة والصيانة: Vercel
 * الأدوات وبيئة التطوير: VS Code, Git, GitHub
 
 ---
@@ -42,8 +52,7 @@
 Lerova-team/
 ├── .vscode/               # إعدادات بيئة العمل
 ├── images/                # مجلد الصور والشعارات
-│   ├── lerova_logo.png
-│   ├── lerova_logo_transparent.png
+│   ├── favicon.png
 │   ├── moneerr.jpeg
 │   ├── mustafa.jpeg
 │   └── taj.jpeg
