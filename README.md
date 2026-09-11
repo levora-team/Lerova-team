@@ -11,7 +11,7 @@
 ## رابط المعاينة المباشرة (Live Demo)
 
 يمكنك زيارة الموقع المرفوع على منصة Vercel عبر الرابط التالي:
-* **رابط المشروع:** [https://lerova-team.vercel.app](https://lerova-team.vercel.app) *(قم باستبدال هذا الرابط برابط Vercel الخاص بك)*
+* **رابط المشروع:** [https://lerova-team.vercel.app](https://lerova-team.vercel.app)
 
 ---
 
